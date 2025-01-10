@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022a60e032f8b2a4f81922f9d06041a3, type: 3}
+  m_Name: FabricatorWorldObject
+  m_EditorClassIdentifier: 
+  <Prefabs>k__BackingField:
+  - {fileID: 3048200500592853040, guid: 1e1fcdf2b9d9f8b4ebfec0a86d08ebb0, type: 3}
+  <Density>k__BackingField: 50
+  <Height>k__BackingField: 0
+  <Offset>k__BackingField: {x: 0.5, y: 0.125}
+  <Single>k__BackingField: 1
+  <NoiseConfig>k__BackingField: {fileID: 11400000, guid: f80285f8cc9fc1e4384b1b1b3182aa30, type: 2}

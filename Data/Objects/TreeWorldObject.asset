@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022a60e032f8b2a4f81922f9d06041a3, type: 3}
+  m_Name: TreeWorldObject
+  m_EditorClassIdentifier: 
+  <Prefabs>k__BackingField:
+  - {fileID: 4058968362019898636, guid: 11a03e363bb65f14eb8c717e7cb4a6fe, type: 3}
+  - {fileID: 8201815513148874533, guid: e3fe06f33c20753489c909ee1b520f5d, type: 3}
+  - {fileID: 2041047990734196447, guid: 370901c6f0f1078458bf6ae875e7b26c, type: 3}
+  - {fileID: 7214344744178385873, guid: fe773382bccb9c44f973a16a57a64de1, type: 3}
+  <Density>k__BackingField: 5
+  <Height>k__BackingField: 0.45
+  <Offset>k__BackingField: {x: 0.5, y: 0.125}
+  <Single>k__BackingField: 0
+  <NoiseConfig>k__BackingField: {fileID: 11400000, guid: 86e1460843cb52d4bb97a4395531e130, type: 2}

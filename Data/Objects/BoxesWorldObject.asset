@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022a60e032f8b2a4f81922f9d06041a3, type: 3}
+  m_Name: BoxesWorldObject
+  m_EditorClassIdentifier: 
+  <Prefabs>k__BackingField:
+  - {fileID: 7591351839779991849, guid: 78a4d512e6f523545a1e15b5f5511697, type: 3}
+  <Density>k__BackingField: 2
+  <Height>k__BackingField: 0.5
+  <Offset>k__BackingField: {x: 0.5, y: 0.125}
+  <Single>k__BackingField: 0
+  <NoiseConfig>k__BackingField: {fileID: 11400000, guid: f29beb50c49b73f4fb5eeed47d0c10c7, type: 2}

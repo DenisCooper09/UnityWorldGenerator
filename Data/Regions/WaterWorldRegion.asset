@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab09d1466d74e6541afaf568e352b3aa, type: 3}
+  m_Name: WaterWorldRegion
+  m_EditorClassIdentifier: 
+  <Tile>k__BackingField: {fileID: 11400000, guid: bdb37807dcb1a554d9419a4767c374c2, type: 2}
+  <Tilemap>k__BackingField: {fileID: 125076019412903770, guid: a5c57c740cde29f47af76ff3076e8286, type: 3}
+  <Height>k__BackingField: 0
+  <Objects>k__BackingField: []
+  <Root>k__BackingField: 0
